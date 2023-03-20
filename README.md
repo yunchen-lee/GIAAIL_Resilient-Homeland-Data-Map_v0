@@ -10,9 +10,9 @@
 ![image](https://github.com/yunchen-lee/GIAAIL_Resilient-Homeland-Data-Map_v0/blob/main/ref/0-cover.PNG)
 
 ## 資料集介面
-* A Part 顯示資料集簡介，或切換為顯示資料集的資料內容 (圖片、影片、文字、連結等等)
-* B Part 將資料視覺化於地圖
-* C Part 縮小版地圖以大尺度查看資料集所在位置
+* A 顯示資料集簡介，或切換為顯示資料集的資料內容 (圖片、影片、文字、連結等等)
+* B 將資料視覺化於地圖
+* C 縮小版地圖以大尺度查看資料集所在位置
 
 ![image](https://github.com/yunchen-lee/GIAAIL_Resilient-Homeland-Data-Map_v0/blob/main/ref/1-infocard-2.png)
 
