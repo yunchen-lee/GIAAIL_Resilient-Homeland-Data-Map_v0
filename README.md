@@ -19,7 +19,7 @@
 ## 資料庫 API 串接 - 以交大建築物圖片為例
 ![image](https://github.com/yunchen-lee/GIAAIL_Resilient-Homeland-Data-Map_v0/blob/main/ref/2-nchcImages-data.PNG)
 
-點擊資料點時透過 API url 抓取圖片
+點擊資料點時透過 API url 抓取圖片 (圖片讀取目前需要約3秒，此問題後續將進行優化)
 ![image](https://github.com/yunchen-lee/GIAAIL_Resilient-Homeland-Data-Map_v0/blob/main/ref/2-nchcImages.PNG)
 
 ## 3D 地景模式
