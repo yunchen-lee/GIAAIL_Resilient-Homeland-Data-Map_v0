@@ -1,6 +1,6 @@
-# GIAAIL_Resilient-Homeland-Data-Map_v0
+# Resilient Homeland Data Map 韌性家園數據監測地圖系統 - 測試版
+瀏覽網頁(建議尺寸 1920x1080) https://yunchen-lee.github.io/GIAAIL_Resilient-Homeland-Data-Map_v0/
 
-## Resilient Homeland Data Map 韌性家園數據監測地圖系統 - 測試版
 目前功能測試
 * 串接國網資料庫 API
 * 滾動式視覺化地圖，透過滑鼠來回捲動於各資料集間切換
